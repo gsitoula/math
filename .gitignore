@@ -2,6 +2,8 @@
 logs
 *.log
 npm-debug.log*
+file-01a.js
+file-01basd.js
 
 # Runtime data
 pids
